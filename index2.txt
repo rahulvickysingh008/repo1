@@ -1,3 +1,4 @@
 Another file
 Another second line
 newline
+reset line
