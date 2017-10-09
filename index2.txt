@@ -1,2 +1,3 @@
 Another file
 Another second line
+newline
