@@ -4,3 +4,4 @@ newline
 reset line
 master commit before branch merging
 branch5 changes the content
+changes in branch6 step
