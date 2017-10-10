@@ -3,4 +3,6 @@ Another second line
 newline
 reset line
 master commit before branch merging
-master change content
+master change content now ok
+branch5 changes the content now ok
+>>>>>>> branch5
