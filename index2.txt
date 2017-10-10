@@ -2,3 +2,4 @@ Another file
 Another second line
 newline
 reset line
+master commit before branch merging
