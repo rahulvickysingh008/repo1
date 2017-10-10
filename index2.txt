@@ -3,3 +3,4 @@ Another second line
 newline
 reset line
 master commit before branch merging
+master change content
