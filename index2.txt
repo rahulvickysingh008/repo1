@@ -5,4 +5,5 @@ reset line
 master commit before branch merging
 master change content now ok
 branch5 changes the content now ok
+master changes
 >>>>>>> branch5
