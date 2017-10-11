@@ -3,4 +3,8 @@ feb
 march (by github)
 april (by github)
 may (by github fetch demo1)
+<<<<<<< HEAD
 july added in local
+=======
+june (changed by github with conflict demo)
+>>>>>>> ed8d5ed56a40cb4203e8c0a6ffdd4d3cada744e9
