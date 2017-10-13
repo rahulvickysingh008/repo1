@@ -1,11 +1,1 @@
-Another file
-Another second line
-newline
-reset line
-master commit before branch merging
-master change content now ok
-branch5 changes the content now ok
-master changes
-branch5 changes the content
-changes in branch6 step
-change in file and commit in branch7
+jetkins changing
