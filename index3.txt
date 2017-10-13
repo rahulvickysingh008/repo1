@@ -1,3 +1,4 @@
 new reset
 change1 
 change2
+change with conflict on branch8
